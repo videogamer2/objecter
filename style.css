@@ -1,0 +1,25 @@
+  body
+  {
+    background-color: rgb(91, 109, 213);
+    color: rgb(47, 51, 79);
+    border-left: 150px groove black;
+    border-right: 150px ridge black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .heading
+  {
+    color: black;
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    border-radius: 5;
+    border: 5px dashed rgb(47, 51, 79);
+    width: 350px;
+    height: 300px;
+  }
+  .nameOfObjects, #resultObjectName  , #resultObjectAccuracy
+  {
+    color: rgb(255, 250, 240);
+  }
